@@ -85,7 +85,10 @@ body,html {
 }
 #tagline {
     font-size:50px;
-    width:60%;
+    width:90%;
+}
+#tagline p {
+    padding-left: 10%;
 }
 #portfolio {
     width:80%;
